@@ -142,8 +142,8 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="DataFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.data.service.DataFixer" />
+    <configuration name="DataService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.data.service.DataService" />
       <module name="BorrowBook" />
       <extension name="coverage">
         <pattern>
@@ -167,12 +167,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DataFixer" />
+      <item itemvalue="Application.DataService" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DataFixer" />
+        <item itemvalue="Application.DataService" />
       </list>
     </recent_temporary>
   </component>

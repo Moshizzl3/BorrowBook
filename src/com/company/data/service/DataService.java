@@ -6,13 +6,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
 
-public class DataFixer {
+public class DataService {
   private final Datasource DATASOURCE;
 
-  public DataFixer(Datasource datasource) {
+  public DataService(Datasource datasource) {
     DATASOURCE = datasource;
   }
 
