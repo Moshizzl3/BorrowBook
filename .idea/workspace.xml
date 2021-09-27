@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="224fb364-ef68-4706-abe5-885693f4cc9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/data/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/data/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitrecap/Gitrecap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dat21v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EksamensPractice/src/Excersise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/ExcerciseRockPaperScissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/GameArena.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/OutCome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/out/production/ExcerciseRockPaperScissors/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/GameArena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/OutCome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExcerciseRockPaperScissors/src/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/JavaSwing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module1/ExtendedMenuBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module1/FirstFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module1/FrameTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module1/MenuBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module2/HelloActionListenerNestedClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module2/HelloActionListnerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSwing/src/Module2/HelloButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Marios-Pizzabar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnsdagsOpgave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SalesSystem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../supsup/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../supsup/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../supsup/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../supsup/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../supsup/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../supsup/supsup.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yiM7JQpuY8qn0EXpl5tH6opo1D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="BorrowBook" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224fb364-ef68-4706-abe5-885693f4cc9c" name="Changes" comment="" />
+      <created>1632729786649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632729786649</updated>
+      <workItem from="1632729787918" duration="1187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
