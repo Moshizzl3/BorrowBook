@@ -92,4 +92,14 @@ public class Book {
   public void setLanguage(String language) {
     this.language = language;
   }
+
+  @Override
+  public String toString() {
+    return "Book{" +
+        "bookId=" + bookId +
+        ", author='" + author + '\'' +
+        ", title='" + title + '\'' +
+        ", genre='" + genre + '\'' +
+        '}';
+  }
 }
